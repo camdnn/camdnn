@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd year computer science major at saddleback college<br><br>I am currently working on full stack web applications, one of which is a website to help those wanted to learn algebra
+I am a 3rd year computer science major at Cal Poly, San Luis Obispo<br><br>I am currently working on full stack web applications, one of which is a website to help those wanted to learn algebra
 
 ## 🌐 My Portfolio
 [View my portfolio website](https://portfolio-camdenmann.vercel.app)
